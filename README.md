@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World🐯🤖&font=Redressed&size=40)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World&font=Redressed&size=40)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYOSEUNGAN&theme=nord_dark)
 
