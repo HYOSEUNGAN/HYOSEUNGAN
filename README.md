@@ -2,6 +2,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYOSEUNGAN&theme=nord_dark)
 
+## 좋아하는 일들을 좋은 분들과 함께하고 있어 감사함을 느끼며
+
 
 
 <!--
