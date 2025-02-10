@@ -1,8 +1,9 @@
+## 좋아하는 일들을 좋은 분들과 함께함에 감사함을 느끼며
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f0f6fc&lines=Hello+World&font=Redressed&size=40)](https://git.io/typing-svg)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HYOSEUNGAN&theme=nord_dark)
 
-## 좋아하는 일들을 좋은 분들과 함께하고 있어 감사함을 느끼며
 
 
 
